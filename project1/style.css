@@ -1,0 +1,32 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.box1 {
+    width: 400px;
+    background-color: rgb(169, 182, 174);
+    padding-top: 0.5px;
+    
+    
+}
+
+.box2 {
+      width: 380px;
+      height: 40px;
+      margin-left: 10px;
+      margin-right: 10px;
+      background-color: gray;
+      font-weight: 250;
+      font-size: 2em;
+    
+}
+
+p {
+    margin-left: 10px;
+    font-size: 0.9em;
+}
+
+div.margin > p {
+    margin-left: 30px;  
+    font-weight: bold;
+
+}

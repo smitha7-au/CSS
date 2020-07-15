@@ -1,0 +1,21 @@
+.box1 {
+    width: fit-content;
+    margin-left: 10px;
+    /* padding: 0, 10px, 20px, 30px; */
+    background-color: rgb(212, 209, 212);
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+h1 {
+    padding: 30px 0px 0px 10px;
+    /* padding-left: 10px;
+    padding-top: 30px; */
+}
+
+.video {
+   padding: 10px 50px 30px 10px ;
+   /* padding-top: 10px;
+   padding-left: 10px;
+   padding-bottom: 30px;
+   padding-right: 50px; */
+} 
